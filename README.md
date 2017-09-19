@@ -33,7 +33,7 @@ I couldn’t find a framework that matched this mental model of how I work, so I
 - Class names should be memorable and self-evident.
 - Gutters and basic content padding should be taken care of.
 - Clearing floats should be done automatically.
-- Wrapped grid sections should be independant of vertical page sections.
+- Wrapped grid sections should be independent of vertical page sections.
 - Frequently required utility classes should be provided.
 - Common patterns for Responsive Design™ should be built-in.
 
@@ -73,7 +73,7 @@ Without this meta tag, mobiles and tablets might load your page as a scaled-down
 
 ## Contributing
 
-I’d :heart: to recieve contributions to this project. It doesn’t matter if it’s just a typo, or if you’re proposing an overhaul of the entire project—I’ll gladly take a look at your changes. Fork at will! :grinning:.
+I’d :heart: to receive contributions to this project. It doesn’t matter if it’s just a typo, or if you’re proposing an overhaul of the entire project—I’ll gladly take a look at your changes. Fork at will! :grinning:.
 
 ## License
 
